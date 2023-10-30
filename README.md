@@ -1,1 +1,1 @@
-# RhazouaniShopDjango
+# RhazouaniShop
